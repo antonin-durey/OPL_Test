@@ -19,13 +19,15 @@ public class A {
 	}
 	
 	/**
-	 * Get the name of the element
+	 * Get the name of the element 
 	 * @return
 	 */
 	public String getName(){
 		return name;
 	}
-	
+	/**
+	* tara
+	*/
 
 	public void setName(String name){
 		this.name = name;
