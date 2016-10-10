@@ -1,7 +1,7 @@
 package random.name;
 /**
  * This a the javadoc for the class AB
- * @author dureyrey
+ * @author durey
  *
  */
 public class A {
