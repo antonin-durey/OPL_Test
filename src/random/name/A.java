@@ -6,7 +6,7 @@ package random.name;
  */
 public class A {
 	/**
-	 * this is the name of the elements
+	 * this is the name of the element
 	 */
 	private String name;
 	
