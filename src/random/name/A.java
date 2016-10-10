@@ -26,7 +26,7 @@ public class A {
 		return name;
 	}
 	/**
-	* tara
+	* taratata
 	*/
 
 	public void setName(String name){
