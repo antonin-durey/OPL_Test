@@ -1,12 +1,12 @@
 package random.name;
 /**
- * This a the javadoc for the class B
- * @author durey
+ * This a the javadoc for the class AB
+ * @author dureyr
  *
  */
 public class A {
 	/**
-	 * this is the name of the element
+	 * this is the name of the elements
 	 */
 	private String name;
 	
@@ -19,13 +19,15 @@ public class A {
 	}
 	
 	/**
-	 * Get the name of the element
+	 * Get the name of the element 
 	 * @return
 	 */
 	public String getName(){
 		return name;
 	}
-	
+	/**
+	* taratata
+	*/
 
 	public void setName(String name){
 		this.name = name;
