@@ -1,6 +1,6 @@
 package random.name;
 /**
- * This a the javadoc for the class ABC
+ * This a the javadoc for the class ABCD
  * @author dureyr
  *
  */
